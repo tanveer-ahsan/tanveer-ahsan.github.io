@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. A Robotics Ph.D. Student
+subtitle: <a href='https://pku.edu.cn'>Peking University/a>. Marine Soft Robotics Doctoral Candidate
 
 profile:
   align: right
