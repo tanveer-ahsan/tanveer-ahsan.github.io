@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ahsan Tanveer",
-    "label": "",
+    "label": "Robotics Engineer",
     "image": "",
     "email": "ahsantanveer3883@gmail.com",
     "phone": "",
@@ -37,17 +37,6 @@
     {
       "institution": "Peking University, Beijing, China",
       "location": "Beijing, China",
-      "url": "https://english.pku.edu.cn/",
-      "area": "Soft Robotics",
-      "studyType": "PhD",
-      "startDate": "2024-09-01",
-      "endDate": "",
-      "score": "",
-      "courses": ["Mechanics"]
-    }
-    {
-      "institution": "GIK Institute of Engineering Sciences and Technology, Topi, Pakistan",
-      "location": "Topi, Pakistan",
       "url": "https://english.pku.edu.cn/",
       "area": "Soft Robotics",
       "studyType": "PhD",
