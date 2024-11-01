@@ -6,7 +6,7 @@ subtitle: <a href='https://pku.edu.cn'> Peking University</a>. Marine Soft Robot
 
 profile:
   align: right
-  image: Author1.jpeg
+  image: snap.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1038 Xin-Ao Building</p>
