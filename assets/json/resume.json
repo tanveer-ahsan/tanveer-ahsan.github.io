@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ahsan Tanveer",
-    "label": "Doctoral Candidate",
+    "label": "",
     "image": "",
     "email": "ahsantanveer3883@gmail.com",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://ahsantr.github.io",
     "summary": "A robotics Ph.D. candidate interested in the area of soft robotics, and their applications in marine environments",
     "location": {
       "address": "1038 Xin-Ao Building",
@@ -16,46 +16,45 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "AhsanTanveer",
+        "url": "https://pk.linkedin.com/in/ahsantanveer3883"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Intelligent Biomimetic Design Lab, Peking University",
+      "position": "Research Assistant",
+      "url": "https://en.ibdl.pku.edu.cn/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Investigating marine soft robotic control under the supervision of Xie Guangming",
+      "highlights": ["Soft Robotics"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Peking University, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://english.pku.edu.cn/",
+      "area": "Soft Robotics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Mechanics"]
+    }
+    {
+      "institution": "GIK Institute of Engineering Sciences and Technology, Topi, Pakistan",
+      "location": "Topi, Pakistan",
+      "url": "https://english.pku.edu.cn/",
+      "area": "Soft Robotics",
+      "studyType": "PhD",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Mechanics"]
     }
   ],
   "awards": [
