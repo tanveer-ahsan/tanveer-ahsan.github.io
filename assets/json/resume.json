@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Ahsan Tanveer",
-    "label": "Robotics Student",
+    "label": "Doctoral Candidate",
     "image": "",
     "email": "ahsantanveer3883@gmail.com",
     "phone": "",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A robotics Ph.D. candidate interested in the area of soft robotics, and their applications in marine environments",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "1038 Xin-Ao Building",
+      "postalCode": "CN 100871",
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Haidian"
     },
     "profiles": [
       {
