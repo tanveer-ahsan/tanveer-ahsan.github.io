@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. A Robotics Ph.D. Student
 
 profile:
   align: right
   image: Author1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1038 your office number</p>
-    <p>123 your address street</p>
+    <p>1038 Xin-Ao Building</p>
+    <p>126 Zhongguancun North Street</p>
     <p>Beijing, CN 100871</p>
 
 news: true # includes a list of news items
