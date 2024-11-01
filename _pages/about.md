@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/94c04d36-7444-4b66-b997-725ae491e5b2)---
 layout: about
 title: about
 permalink: /
