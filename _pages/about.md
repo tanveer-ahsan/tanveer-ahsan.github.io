@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/94c04d36-7444-4b66-b997-725ae491e5b2)---
 layout: about
 title: about
 permalink: /
@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. candidate in the [Intelligent Biomimetic Design Lab](https://en.ibdl.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/), supervised by [Xie Guangming](https://ocean.pku.edu.cn/info/1184/2268.htm). Previously, I was lecturer at [Air University](https://au.edu.pk/). I completed my M.S. at [GIK Institute of Engineering Sciences and Techology]() in mechanical engineering in July 2021. At GIK, I was advised by [Sarvat Ahmad](https://cie.kfupm.edu.sa/people/faculty/dr-sarvat-m-ahmad/) and was a member of [Vibrational Dynamics and Control Systems Lab](https://sites.google.com/prod/view/controllabgiki/home). I received my B.S. from [University of Engineering and Technology Peshawar](https://www.uetpeshawar.edu.pk/) with highest honors in mechanical engineering in 2019. I also worked at [King Fahd Univeristy of Petroleum and Minerals](https://www.kfupm.edu.sa/) and [National University of Sciences and Technology](https://nust.edu.pk/).
+I am currently a Ph.D. candidate in the [Intelligent Biomimetic Design Lab](https://en.ibdl.pku.edu.cn/) at Peking University, supervised by Xie Guangming. Previously, I was lecturer at Air University. I completed my M.S. at GIK Institute of Engineering Sciences and Techology in mechanical engineering in July 2021. At GIK, I was advised by Sarvat Ahmad and was a member of [Vibrational Dynamics and Control Systems Lab](https://sites.google.com/prod/view/controllabgiki/home). I received my B.S. from University of Engineering and Technology Peshawar with highest honors in mechanical engineering in 2019. I also worked at King Fahd Univeristy of Petroleum and Minerals and National University of Sciences and Technology.
 
-Research interests
-==
+**Research interests
+**
 Broadly speaking, my research interests lie in some of the modern areas of soft robotics, applied controls, and machine learning with special emphasis on marine robots.
 
 More specifically, I’m interested in the following topics:
@@ -29,6 +29,6 @@ More specifically, I’m interested in the following topics:
 2. Bio-inspired flexible sensors and actuators for soft underwater robots
 3. Development of high fidelity dynamics models of soft robots to bridge simulation-to-reality gap for enhanced control performance in real experiments
 
-Get in touch
-==
+**Get in touch
+**
 Please feel free to reach out, if you would like to talk about my work or discuss something of mutual interest.
